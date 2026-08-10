@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "titulo": "Volcán de Izalco",
+        "departamento": "Sonsonate",
+        "categoria": "Naturaleza / Volcán",
+        "precios": "Nacionales: $1.50, Extranjeros: $3.00",
+        "descripcion": "Conocido históricamente como el 'Faro del Pacífico'. Ofrece una escalada retadora con vistas impresionantes desde su cráter de arena negra.",
+        "imagen": "https://elsalvador.travel/system/wp-content/uploads/2022/12/DestinationVolcanIzalco04.jpg"
+    },
+    {
+        "id": 2,
+        "titulo": "Playa Los Cóbanos",
+        "departamento": "Sonsonate",
+        "categoria": "Playa / Arrecife",
+        "precios": "Acceso libre; Tours de buceo/snorkel $35-$50",
+        "descripcion": "Playa de arena dorada protegida por un arrecife rocoso, ideal para practicar snorkel y observar la vida marina local.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_8Q6iVjoVkjvqvaoPXiJOFHA5QV-n2YQURZVbjhu8Ku8nbbQcxlh8-xY&s=10"
+    },
+    {
+        "id": 3,
+        "titulo": "Lago de Coatepeque",
+        "departamento": "Santa Ana",
+        "categoria": "Naturaleza / Lago",
+        "precios": "Acceso libre; Alquiler de lancha $20-$30",
+        "descripcion": "Hermoso lago de origen volcánico. En ciertas épocas del año, sus aguas cambian a un espectacular color turquesa.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_doXYqNKUUCt4NSkubut0SqWIo8OZ58k2UVAxrZv7ufBj5Choe2nWNAQ&s=10"
+    },
+    {
+        "id": 4,
+        "titulo": "Ruinas de Tazumal",
+        "departamento": "Santa Ana",
+        "categoria": "Cultura / Arqueología",
+        "precios": "Nacionales: $1.00, Extranjeros: $5.00",
+        "descripcion": "Uno de los sitios arqueológicos más importantes del país, con impresionantes pirámides de la cultura maya.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgqZBAoOTGVg-huU4gd3tSQoawE3JQ3_f2eV_zKF0IpDOKYA5VKAkOYIM&s=10"
+    },
+    {
+        "id": 5,
+        "titulo": "Playa El Tunco",
+        "departamento": "La Libertad",
+        "categoria": "Playa / Surf",
+        "precios": "Acceso libre; Clases de surf $15-$25",
+        "descripcion": "Famosa por su icónica formación rocosa y sus olas, es el epicentro del surf y la vida nocturna en la costa salvadoreña.",
+        "imagen": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/1f/54/5b/caption.jpg?w=1200&h=1200&s=1"
+    },
+    {
+        "id": 6,
+        "titulo": "Parque Nacional El Imposible",
+        "departamento": "Ahuachapán",
+        "categoria": "Naturaleza / Bosque",
+        "precios": "Entrada: $3.00, Guía obligatorio: $10.00+",
+        "descripcion": "El bosque de mayor extensión en El Salvador, hogar de una vasta diversidad de flora y fauna, y senderos para aventureros.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi1n3w67ihOA7_eZOfhvczCaZOdYdPepsKtOLNbmXt_QjGeCO58S5QmQ&s=10"
+    },
+    {
+        "id": 7,
+        "titulo": "Ruta de las Flores (Juayúa)",
+        "departamento": "Sonsonate / Ahuachapán",
+        "categoria": "Pueblos / Cultura",
+        "precios": "Acceso libre; Festival Gastronómico varía",
+        "descripcion": "Pueblo pintoresco famoso por su festival gastronómico de fin de semana y los impresionantes Chorros de la Calera.",
+        "imagen": "https://everythingelsalvador.com/wp-content/uploads/2021/08/Los-Chocos-Ruta-Flores-1000x667.jpg"
+    },
+    {
+        "id": 8,
+        "titulo": "Centro Histórico de San Salvador",
+        "departamento": "San Salvador",
+        "categoria": "Cultura / Ciudad",
+        "precios": "Recorrido libre; Tours guiados $5-$10",
+        "descripcion": "Corazón de la capital, destacan el Palacio Nacional, el Teatro Nacional y la imponente Catedral Metropolitana.",
+        "imagen": "https://cdn-pro.elsalvador.com/wp-content/uploads/2025/10/turismo-centro-historico-actividades.jpg"
+    },
+    {
+        "id": 9,
+        "titulo": "El Boquerón",
+        "departamento": "San Salvador",
+        "categoria": "Naturaleza / Volcán",
+        "precios": "Nacionales: $2.00, Extranjeros: $5.00",
+        "descripcion": "Cráter del Volcán de San Salvador. Ofrece un clima fresco, senderos rodeados de hortensias y vistas de la capital.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVDsTvQluY-RAd-ScNiotRclNklVYinq7m6sPqJQMPsMwZcwlzcnce-kkL&s=10"
+    }
+]
